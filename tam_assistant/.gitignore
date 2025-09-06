@@ -1,0 +1,3 @@
+# Ignore sensitive files
+token.json
+credentials.json
