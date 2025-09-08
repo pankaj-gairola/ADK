@@ -1,0 +1,10 @@
+# Core ADK Library
+google-agent-development-kit
+
+# Google API Client Libraries
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# For environment variable management
+python-dotenv
